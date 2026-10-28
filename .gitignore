@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+src/*.egg-info/
+node_modules/
+.promptfoo/
+.idea/

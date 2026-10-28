@@ -1,0 +1,12 @@
+{
+  "name": "adversarial-testing-poc",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Promptfoo test engine only; application and provider code are Python",
+  "engines": {
+    "node": ">=22.22.0"
+  },
+  "devDependencies": {
+    "promptfoo": "0.125.1"
+  }
+}
